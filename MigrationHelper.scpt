@@ -1,4 +1,4 @@
---new version
+--version 1.0
 tell application "Terminal"
 	activate
 	do script "cd Documents/content-copy-tool" in tab 1 of front window
